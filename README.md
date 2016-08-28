@@ -1,3 +1,5 @@
+![icon](docs/images/icon.png)
+
 # GitAutoCommit
 
 [![AppVeyor](https://img.shields.io/appveyor/ci/Silvenga/gitautocommit.svg?maxAge=2592000&style=flat-square)](https://ci.appveyor.com/project/Silvenga/gitautocommit)
