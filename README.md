@@ -6,6 +6,10 @@
 
 A small program that automatically commits changes detected in valid Git repositories. Great for versioning everything from settings/configurations to tax documents using the power of Git. 
 
+## Download
+
+Find the latest build in [Releases](https://github.com/Silvenga/GitAutoCommit/releases).
+
 ## Usage
 
 ```
